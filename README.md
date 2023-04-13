@@ -1,4 +1,4 @@
-# Task_comp_Persona
+# Productivity Tool
 A measure of productivity in this world of chaos
 
 This is a Python code for a simple GUI program that allows the user to enter task information and save it to an Excel spreadsheet using the openpyxl library. Here's a detailed breakdown of the code:
