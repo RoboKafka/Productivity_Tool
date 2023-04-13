@@ -70,5 +70,7 @@ Finally, a Button widget is created with the text "Submit" and a command to call
 
 #Visuals
 another program visual.py , is used to create the figure below, the area of each circle increases as you input your daily tasks, the project benefits if all the circles are of the same size towards the end. 
+
+
 ![image](https://user-images.githubusercontent.com/37312093/231691516-dc1ed535-1ce8-4256-8b87-66c04ffe5861.png)
 
