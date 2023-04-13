@@ -67,3 +67,8 @@ The next three widgets created are similar to the first. They are Label widgets 
 After each label, an Entry widget is created. These are text boxes that allow the user to enter data. They are created using the ttk.Entry method and stored as instance variables (self.task_entry, self.company_entry, and self.self_entry) so that their contents can be accessed later.
 
 Finally, a Button widget is created with the text "Submit" and a command to call the get_input method when clicked. The button is placed in column 0 and row 4 of the GUI.
+
+#Visuals
+another program visual.py , is used to create the figure below, the area of each circle increases as you input your daily tasks, the project benefits if all the circles are of the same size towards the end. 
+![image](https://user-images.githubusercontent.com/37312093/231691516-dc1ed535-1ce8-4256-8b87-66c04ffe5861.png)
+
